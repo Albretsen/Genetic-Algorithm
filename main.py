@@ -1,5 +1,5 @@
 # Genetic Algorithm
-# This ia genetic algorithm for generating strings, but can be easily rebuilt to fit any type of DNA. It works by
+# This is genetic algorithm for generating strings, but can be easily rebuilt to fit any type of DNA. It works by
 # generating a random population, then it creates a new generation based on the best specimens from the last generation.
 # How good a specimen is, is referred to as fitness. Fitness is how much of a specimens DNA matches our target DNA.
 # Fitness can be easily changed to anything else though. If there is no target, fitness can for example be distance
